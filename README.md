@@ -1,5 +1,3 @@
 # hello-world
 练习使用GitHub
-<?php
-
-?>
+printf("%d\n",ans);
